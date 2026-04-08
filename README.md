@@ -36,6 +36,7 @@ Stock Coverage Days = Inventory Quantity ÷ Daily Demand
 Daily Demand = Monthly Demand ÷ 30
 
 👉 If:
+
 Stock Coverage Days < Lead Time → At Risk
 
 Stock Coverage Days ≥ Lead Time → Healthy
