@@ -37,6 +37,7 @@ Daily Demand = Monthly Demand ÷ 30
 
 👉 If:
 Stock Coverage Days < Lead Time → At Risk
+
 Stock Coverage Days ≥ Lead Time → Healthy
 
 This approach helps determine whether current inventory can sustain demand until the next replenishment.
