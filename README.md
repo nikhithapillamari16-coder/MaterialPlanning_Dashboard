@@ -5,28 +5,28 @@ Inventory Optimization Dashboard built in Power BI to monitor stock levels, supp
 🎯Objective
 
 The goal of this project is to:
-Monitor inventory health
-Identify potential stockout risks
-Improve supplier coordination
+Monitor inventory health,
+Identify potential stockout risks,
+Improve supplier coordination,
 Support proactive material planning
 
 Key Features
 
-📦 Inventory Tracking: Monitor inventory levels across SKUs
-⚠️ Stock Risk Identification: Flag items as At Risk or Healthy using coverage vs lead time logic
-📈 Supplier Analysis: Analyze inventory distribution by supplier
+📦 Inventory Tracking: Monitor inventory levels across SKUs,
+⚠️ Stock Risk Identification: Flag items as At Risk or Healthy using coverage vs lead time logic,
+📈 Supplier Analysis: Analyze inventory distribution by supplier,
 📊 Open PO Monitoring: Track open purchase orders for better procurement visibility
 
 🎯 KPI Metrics:
 
-Total Inventory Value
-Total Open PO Quantity
+Total Inventory Value,
+Total Open PO Quantity,
 Inventory Health Distribution
 
 🛠️ Tools & Technologies
 
-Power BI
-Excel
+Power BI,
+Excel,
 DAX
 
 ⚙️ Logic Used
